@@ -1,3 +1,6 @@
+
+![WhatsApp-AI-Business-Agent](whatsapp_banner.png)
+
 # WhatsApp AI Business Agent
 
 > **Turn any WhatsApp Business number into a 24/7 AI-powered sales and support assistant.**

@@ -592,4 +592,5 @@ if __name__ == "__main__":
     print(f"  Client: {config.BUSINESS_NAME}")
     print(f"  Features: Voice | Image | Payment | Booking | Handoff | Summary")
     print("=" * 50)
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=False)

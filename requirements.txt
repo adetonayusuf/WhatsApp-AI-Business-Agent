@@ -1,0 +1,7 @@
+flask
+twilio
+openai
+notion-client
+python-dotenv
+apscheduler
+requests
